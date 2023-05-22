@@ -10840,6 +10840,7 @@ textarea.form-control-lg {
 .card-override{
   margin-right: 1rem!important;
     margin-top: 1rem;
+    min-height: 20rem;
 }
 #features{
   background-color: #cdcdcf;
@@ -10874,4 +10875,21 @@ ul{
 .dropLetHeader{
   color: #7d7d85;
   font-size: 4.5rem;
+}
+.darkGrey{
+  color: #5b6868;
+}
+.cardContent{
+
+  font-size: 14px;
+  font-weight: 600;
+  color: #787373;
+}
+.more{
+  padding-bottom: 20px;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    padding-right: 5px;
+
 }
